@@ -1,6 +1,6 @@
 # ptest
 
-パッケージを試しに作ってみる
+au
 
 ## Getting Started
 
