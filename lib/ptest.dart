@@ -6,5 +6,5 @@ class Calculator {
   int addOne(int value) => value + 1;
 }
 class MyHello {
-  void test(int x){print('hello');
+  void test(int x){print('hello');}
 }
